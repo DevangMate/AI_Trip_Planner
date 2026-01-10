@@ -57,3 +57,4 @@ if submit_button and user_input.strip():
 
     except Exception as e:
         raise f"The response failed due to {e}"
+    
