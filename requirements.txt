@@ -12,8 +12,10 @@ langchain_google_community
 langchain_tavily
 langchain_groq
 langchain_openai
-langchain-mistralai
 langgraph
+langchain-google-community[places]
+langchain-mistralai
+
 
 
 

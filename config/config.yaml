@@ -7,4 +7,4 @@ llm:
     model_name: "deepseek-r1-distill-llama-70b"
   mistralai:
     provider: "mistralai"
-    model_name: "mistral-medium-latest"
+    model_name: "mistral-large-latest"
